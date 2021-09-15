@@ -35,6 +35,13 @@ This is __something else__.
 
 `alert('hello');`
 
+---
+
+```
+alert('hello');
+console.log('something');
+```
+
 ## Heading 2
 Qui eu dolore nisi excepteur. Sit est exercitation non pariatur reprehenderit ipsum mollit exercitation. Adipisicing veniam ut esse ea culpa ea cillum labore mollit eiusmod.
 
