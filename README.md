@@ -26,10 +26,14 @@ This is __something else__.
 
 ### Ordered List
 1. Wake up
-1. Work out
-1. drink coffee
-1. make money!
-1. sleep
+2. Work out
+3. drink coffee
+4. make money!
+5. sleep
+
+## Code Blocks
+
+`alert('hello');`
 
 ## Heading 2
 Qui eu dolore nisi excepteur. Sit est exercitation non pariatur reprehenderit ipsum mollit exercitation. Adipisicing veniam ut esse ea culpa ea cillum labore mollit eiusmod.
