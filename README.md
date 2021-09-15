@@ -42,6 +42,11 @@ alert('hello');
 console.log('something');
 ```
 
+## Linking to Other Pages
+
+[Click here to go to Google](https://google.com)
+
+
 ## Heading 2
 Qui eu dolore nisi excepteur. Sit est exercitation non pariatur reprehenderit ipsum mollit exercitation. Adipisicing veniam ut esse ea culpa ea cillum labore mollit eiusmod.
 
