@@ -46,6 +46,9 @@ console.log('something');
 
 [Click here to go to Google](https://google.com)
 
+- My website: [ericharrison.info](https://ericharrison.info)
+- My LinkedIn: [LinkedIn](https://linkedin.com/in/ericryanharrison)
+
 
 ## Heading 2
 Qui eu dolore nisi excepteur. Sit est exercitation non pariatur reprehenderit ipsum mollit exercitation. Adipisicing veniam ut esse ea culpa ea cillum labore mollit eiusmod.
