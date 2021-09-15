@@ -49,6 +49,13 @@ console.log('something');
 - My website: [ericharrison.info](https://ericharrison.info)
 - My LinkedIn: [LinkedIn](https://linkedin.com/in/ericryanharrison)
 
+## Tables of Info
+
+|username|email address|favorite color|
+|--------|-------------|--------------|
+|eric|eric@hrrsn.co|blue|
+|meg|meg@hrrsn.co|orange|
+
 ## Image
 
 This is a cute kitty.
