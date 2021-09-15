@@ -7,9 +7,9 @@ This is **bold text**!
 
 This is *italicized*.
 
-> Worker bees can leave.
-> Even drones can fly away.
-> The queen is their slave.
+> Worker bees can leave.  
+> Even drones can fly away.  
+> The queen is their slave.  
 
 > Only idiots argue on the internet. -- Abraham Lincoln!
 
