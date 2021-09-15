@@ -7,11 +7,22 @@ This is **bold text**!
 
 This is *italicized*.
 
+This is ***bold and italic***!
+
+This is __something else__.
+
 > Worker bees can leave.  
 > Even drones can fly away.  
 > The queen is their slave.  
 
 > Only idiots argue on the internet. -- Abraham Lincoln!
+
+## Lists
+
+### Unordered List
+- cheese
+- bread
+- mustard
 
 ## Heading 2
 Qui eu dolore nisi excepteur. Sit est exercitation non pariatur reprehenderit ipsum mollit exercitation. Adipisicing veniam ut esse ea culpa ea cillum labore mollit eiusmod.
