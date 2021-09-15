@@ -7,9 +7,11 @@ This is **bold text**!
 
 This is *italicized*.
 
-This **is  *bold and italic* **!
+> Worker bees can leave.
+> Even drones can fly away.
+> The queen is their slave.
 
-> 
+> Only idiots argue on the internet. -- Abraham Lincoln!
 
 ## Heading 2
 Qui eu dolore nisi excepteur. Sit est exercitation non pariatur reprehenderit ipsum mollit exercitation. Adipisicing veniam ut esse ea culpa ea cillum labore mollit eiusmod.
