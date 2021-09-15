@@ -7,7 +7,7 @@ This is **bold text**!
 
 This is *italicized*.
 
-This is ** *bold and italic* **!
+This **is  *bold and italic* **!
 
 > 
 
