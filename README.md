@@ -24,6 +24,13 @@ This is __something else__.
 - bread
 - mustard
 
+### Ordered List
+1. Wake up
+2. Work out
+3. drink coffee
+4. make money!
+5. sleep
+
 ## Heading 2
 Qui eu dolore nisi excepteur. Sit est exercitation non pariatur reprehenderit ipsum mollit exercitation. Adipisicing veniam ut esse ea culpa ea cillum labore mollit eiusmod.
 
